@@ -1,0 +1,3 @@
+ini contoh tulisan yang akan saya tulis dalam file contoh write text 
+nama : alfadjri
+age : 24
